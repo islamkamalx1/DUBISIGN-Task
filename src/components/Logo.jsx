@@ -1,7 +1,7 @@
 
 function Logo() {
   return (
-    <img className="logo" src="../../public/Logo.jpg" alt="spiroSpathis logo" />
+    <img className="logo" src="Logo.jpg" alt="spiroSpathis logo" />
   );
 }
 
